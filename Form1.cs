@@ -23,6 +23,7 @@ namespace DragonSlayer
 
         public Form1()
         {
+            MessageBox.Show("github test");
             InitializeComponent();
         }
 
