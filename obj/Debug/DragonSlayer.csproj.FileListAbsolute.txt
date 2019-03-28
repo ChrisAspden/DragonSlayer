@@ -1,0 +1,11 @@
+C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\bin\Debug\DragonSlayer.exe.config
+C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\bin\Debug\DragonSlayer.exe
+C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\bin\Debug\DragonSlayer.pdb
+C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\obj\Debug\DragonSlayer.Form1.resources
+C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\obj\Debug\DragonSlayer.Properties.Resources.resources
+C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\obj\Debug\DragonSlayer.csproj.GenerateResource.cache
+C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\obj\Debug\DragonSlayer.csproj.CoreCompileInputs.cache
+C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\obj\Debug\DragonSlayer.exe
+C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\obj\Debug\DragonSlayer.pdb
+C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\obj\Debug\DragonSlayer.GameForm.resources
+C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\obj\Debug\DragonSlayer.csprojAssemblyReference.cache
