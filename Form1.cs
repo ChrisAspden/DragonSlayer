@@ -26,6 +26,8 @@ namespace DragonSlayer
             MessageBox.Show("github test");
             MessageBox.Show("github test2");
             MessageBox.Show("Github test 3");
+            MessageBox.Show("Github test 4");
+            MessageBox.Show("Github test 5");
             InitializeComponent();
         }
 
