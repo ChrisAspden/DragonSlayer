@@ -6,4 +6,4 @@ It follows the conventions of a simple turn based rpg, each time you attack the 
 
 I have created a number of game mechanics to add some complexity (armour debuffs, excecute moves, healing spells).
 
-The game finishes when iether you or the dragon die.
+The game finishes when either you or the dragon die.
