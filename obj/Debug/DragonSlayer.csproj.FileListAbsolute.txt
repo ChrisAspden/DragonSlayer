@@ -8,4 +8,3 @@ C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\obj\Debug\DragonSla
 C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\obj\Debug\DragonSlayer.exe
 C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\obj\Debug\DragonSlayer.pdb
 C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\obj\Debug\DragonSlayer.GameForm.resources
-C:\Users\Chris Aspden\source\repos\DragonSlayer\DragonSlayer\obj\Debug\DragonSlayer.csprojAssemblyReference.cache

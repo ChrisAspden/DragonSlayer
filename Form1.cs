@@ -23,11 +23,6 @@ namespace DragonSlayer
 
         public Form1()
         {
-            MessageBox.Show("github test");
-            MessageBox.Show("github test2");
-            MessageBox.Show("Github test 3");
-            MessageBox.Show("Github test 4");
-            MessageBox.Show("Github test 5");
             InitializeComponent();
         }
 
@@ -67,7 +62,7 @@ namespace DragonSlayer
         {
             if (dragon.getHP() <= 400)
             {
-                btnViolentFlurry.Enabled = true;
+                btnViolentFlurry.Enabled = true;           
             }
         }
 
@@ -92,6 +87,7 @@ namespace DragonSlayer
                 UpdatePlayerHP();
                 lblArmor.Text = player.getDef().ToString();
                 SunderedArmour = false;
+                DragonRandomAttack();
 
             }
         }
@@ -145,6 +141,7 @@ namespace DragonSlayer
             MessageBox.Show("The dragon attacks you with its claws dealing " + damageDone + " damage");
             player.setHP(player.getHP() - damageDone);
             SunderArmor();
+            FireDamageTick();
             UpdatePlayerHP();
         }
 
@@ -282,6 +279,7 @@ namespace DragonSlayer
         public void btnViolentFlurry_Click(object sender, EventArgs e)
         {
             ViolentFlurry();
+            btnViolentFlurry.Enabled = false;
         }
     }
 }
